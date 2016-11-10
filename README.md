@@ -2,6 +2,7 @@ you wake me up
 ==
 
 -Basic need:
+
 1. account and match (puppy and piggy)
 2. set alarm record
 3. record alarm sound
